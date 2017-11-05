@@ -1,10 +1,11 @@
 <a href="htttp://anabastos.github.io/sparklejs">
     <img style="vertical-align: top;" src="logo.gif" alt="logo" height="200px">
 </a>
+~By [An4bAsT0S](github.com/anabastos)
 
-###  **[HOMEPAGE](http://anabastos.me/sparklejs) **
+###  :sparkles: [HOMEPAGE](http://anabastos.me/sparklejs) :sparkles:
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
 :sparkles: :star: Now your website can look like the past but on the future. :star: :sparkles:
@@ -28,6 +29,7 @@ Just import in your html the js :)
 - [ ] Play music / playlist from spotify
 - [ ] Custom Scrollbar
 - [ ] Moving Objects
+- [ ] Animations(?)
 
 ## * ~ License ~ *
 
